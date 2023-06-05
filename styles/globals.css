@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+html{
+    background-color: #DDE6ED;
+}
+
+button{
+    background-color: #526D82;
+    color: black;
+    transition: all 0.15s ease 0ms ;
+    padding: 1em 2em;
+    border-radius: 0.25rem;
+}
+
+button:hover{
+    background-color: #DDE6ED;
+}
+
+a{
+    color: #30A2FF;
+}
