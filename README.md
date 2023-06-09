@@ -5,6 +5,7 @@ To run this project in your local machine:
 
 - Install Node.js
 - Downlaod the zip file of the project
+- Run `npm install` to install the dependencies for the project 
 - Run `npm run dev` to run in developers mode
 - Run `npm run build` to build the application for production
 - Run `npm run start` to run the built application.
