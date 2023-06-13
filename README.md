@@ -1,5 +1,5 @@
 # pokeapi-project
-This Pokemon app is made with Next.js, Tailwind CSS, and PokeAPI. 
+This Pokemon app is made with Next.js, Tailwind CSS, and PokeAPI. The web application shows pokemons and their data. All pokemons have more information in thier individual pages. The pokemons can also be selected for favourites and are shown in the Favourites page. 
 
 To run this project in your local machine:
 
